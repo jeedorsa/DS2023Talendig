@@ -3,10 +3,6 @@ TALENDIG
 Dr. Jesús Eduardo Ortíz Sandoval
 Contenidos de clase
 
-## Carpeta compartida para subir codigos
-En proceso!
-
-
 ## Información adicional
 -https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/
 
